@@ -3,7 +3,6 @@
 There are millions of trades made in the global financial market every day. Data grows very quickly and people are hard to understand.
 With the power of the latest artificial intelligence research, people analyze & trade automatically and intelligently. This list contains the research, tools and code that people use to beat the market.
 
-[[中文资源](./chinese.md)]
 
 ## Contents
 
@@ -140,6 +139,13 @@ Price and Volume process with Technology Analysis Indices
 
 - [CryptoInscriber](https://github.com/Optixal/CryptoInscriber) - A live crypto currency historical trade data blotter. Download live historical trade data from any crypto exchange.
 - [Gekko-Datasets](https://github.com/xFFFFF/Gekko-Datasets) - Gekko trading bot dataset dumps. Download and use history files in SQLite format.
+- [zenbot](https://github.com/DeviaVir/zenbot) - Command-line crypto currency trading bot using Node.js and MongoDB.
+- [bot18](https://github.com/carlos8f/bot18) - High-frequency crypto currency trading bot developed by Zenbot.
+- [magic8bot](https://github.com/magic8bot/magic8bot) - Crypto currency trading bot using Node.js and MongoDB.
+- [catalyst](https://github.com/enigmampc/catalyst) - An algorithmic trading library for Crypto-Assets in python.
+- [QuantResearchDev](https://github.com/mounirlabaied/QuantResearchDev) - Quant Research dev & Traders open source project.
+- [MACD](https://github.com/sudoscripter/MACD) - Zenbot MACD Auto-Trader.
+- [abu](https://github.com/bbfamily/abu) - A quant trading system base on python.
 
 ## Research Tools
 
@@ -170,16 +176,6 @@ For Back Test & Live trading
 
 - [pylivetrader](https://github.com/alpacahq/pylivetrader) - Python live trade execution library with zipline interface.
 - [CoinMarketCapBacktesting](https://github.com/JimmyWuMadchester/CoinMarketCapBacktesting) - As backtest frameworks for coin trading strategy.
-
-### Crypto Currencies
-
-- [zenbot](https://github.com/DeviaVir/zenbot) - Command-line crypto currency trading bot using Node.js and MongoDB.
-- [bot18](https://github.com/carlos8f/bot18) - High-frequency crypto currency trading bot developed by Zenbot.
-- [magic8bot](https://github.com/magic8bot/magic8bot) - Crypto currency trading bot using Node.js and MongoDB.
-- [catalyst](https://github.com/enigmampc/catalyst) - An algorithmic trading library for Crypto-Assets in python.
-- [QuantResearchDev](https://github.com/mounirlabaied/QuantResearchDev) - Quant Research dev & Traders open source project.
-- [MACD](https://github.com/sudoscripter/MACD) - Zenbot MACD Auto-Trader.
-- [abu](https://github.com/bbfamily/abu) - A quant trading system base on python.
 
 #### Plugins
 
@@ -229,7 +225,7 @@ Do it in real world!
 - [zipline-tensorboard](https://github.com/jimgoo/zipline-tensorboard) - TensorBoard as a Zipline dashboard.
 - [gekko-quasar-ui](https://github.com/H256/gekko-quasar-ui) - An UI port for gekko trading bot using Quasar framework.
 
-#### Other Resource
+#### Other Resources
 
 - 🌟🌟🌟 [Stock-Prediction-Models](https://github.com/huseinzol05/Stock-Prediction-Models) - Stock-Prediction-Models, Gathers machine learning and deep learning models for Stock forecasting, included trading bots and simulations.
 - 🌟🌟 [Financial Machine Learning](https://github.com/firmai/financial-machine-learning) - A curated list of practical financial machine learning (FinML) tools and applications. This collection is primarily in Python.
